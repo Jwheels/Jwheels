@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jwheels
-- 👀 I’m interested in finance, stocks, programming and technology.
+- 👀 I’m interested in finance, stocks, programming and, technology.
 - 🌱 I’m currently studying computer science at Memorial Unviversity
 
 <!---
