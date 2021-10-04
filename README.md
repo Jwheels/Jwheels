@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jwheels
 - 👀 I’m interested in finance, stocks, programming, and technology.
-- 🌱 I’m currently studying computer science at Memorial Unviversity
+- 🌱 I’m currently studying computer science at Memorial University
 
 <!---
 Jwheels/Jwheels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
