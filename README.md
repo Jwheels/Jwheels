@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jwheels&label=Profile%20views&color=0e75b6&style=flat" alt="jwheels" /> </p>
 
-- 🔭 I’m currently working on [TBD](TBD)
+- 🔭 I’m currently working on **freeCodeCamp - Responsive Web Design Certification**
 
 - 🌱 I’m currently learning **Data Visualization, React, and Nodejs**
 
-- 👨‍💻 All of my projects are available at [TBD](TBD)
+- 👨‍💻 All of my projects are available at **TBD**
 
 - 📫 How to reach me **jasonpewheeler@gmail.com**
 
