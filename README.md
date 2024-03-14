@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **freeCodeCamp - Responsive Web Design Certification**
 
-- 🌱 I’m currently learning **Data Visualization, React, and Nodejs**
+- 🌱 I’m currently taking **Data Visualization and Web Development** courses
 
 - 👨‍💻 All of my projects are available at **TBD**
 
